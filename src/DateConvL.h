@@ -1,5 +1,5 @@
 /*
- * Light weight library to converting Jalali(shamsi/khayami) Date to Gregorian(miladi)
+ * Light weight library to converting Persian(shamsi/farsi) Date to Gregorian(miladi)
  * and vice versa in benefit of leap support.
  * co-creator: payam sabouri. paysab@gmail.com
  * for more informations please check github page (included in readme)
