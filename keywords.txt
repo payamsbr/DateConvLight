@@ -1,8 +1,28 @@
-DateConvL		KEYWORD1
+#######################################
+# Syntax Coloring Map For DateConvLight
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DateConvL	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
 
 ToShamsi		KEYWORD2
 ToGregorian		KEYWORD2
 global_year		KEYWORD2
 global_month	KEYWORD2
 global_day		KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
 
